@@ -11,19 +11,27 @@ Live URL - [https://career-chatbot-navy.vercel.app]
 
 Personalized career guidance based on user input
 
-Resume analysis with feedback
-
 Job market insights and trends
 
 Interview preparation tips and mock questions
 
 Resource recommendations for skill enhancement
 
+Working chat functionality with AI integration
+
+Chat history and session management
+
 🛠️ Tech Stack
 
-Frontend: React, Vercel
+Frontend: Next.js (TypeScript), React, Vercel
+
 Backend: Node.js, Express, Render
+
+Database: Integrated with proper schema
+
 AI Integration: OpenAI API
+
+tRPC & TanStack Query: Implemented for frontend-backend communication
 
 📂 Repository Links
 Frontend
